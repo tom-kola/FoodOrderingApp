@@ -30,8 +30,15 @@ My next goal is to make this app responsive.
 
  ## Project screenshots
 
+### Main view
  <img src="ScreenShots/MainView.png" >
+
+### Dish view
  <img src="ScreenShots/DishView.png" >
+
+### Shopping cart view
  <img src="ScreenShots/CartView.png" >
+
+### Tip view
  <img src="ScreenShots/TipView.png" >
  
