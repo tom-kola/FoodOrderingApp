@@ -27,4 +27,11 @@ My next goal is to make this app responsive.
  <li>Tips</li>
  <li>Possibility to add and remove meals and drinks</li>
  </ul>
+
+ ## Project screenshots
+
+ <img src="ScreenShots/MainView.png" >
+ <img src="ScreenShots/DishView.png" >
+ <img src="ScreenShots/CartView.png" >
+ <img src="ScreenShots/TipView.png" >
  
